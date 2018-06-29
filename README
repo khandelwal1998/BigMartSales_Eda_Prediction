@@ -1,0 +1,4 @@
+This project on big mart sales after completion gave me a good idea about the big mart dataset.
+This project started from pre processing of data followed by eda reports to analyze th important features and then the fetature engineering 
+to get important features only. Then I did the model training using regression models like Linear Regression, Gradient boosting regressor and 
+Random forest regressor. I also used GridSearchCV to tune up parameters for gradient boosting and RFR to get the best possible output.
